@@ -1,16 +1,26 @@
 # Food Rating App
 
 FoodReview is a simple app that contain a list of popular restaurant. This app features are:
+
 [•] List of restaurant
+
 [•] Detail restaurant
+
 [•] Write a review
+
 [•] Search a restaurant
+
 [•] Favorite restaurant list
+
 [•] Add favorite restaurant
+
 [•] Delete favorite restaurant
-[] Dark mode
-[] Daily reminder
-[] Testing
+
+[•] Dark mode
+
+[•] Daily reminder
+
+[•] Testing
 
 ## Getting Started
 
