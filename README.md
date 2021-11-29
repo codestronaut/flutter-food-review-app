@@ -2,16 +2,15 @@
 
 This app is called FoodReview. The main feature is we can discover some restaurants, get details, foods, drinks, and post a review for that restaurant.
 
-[<img alt="Sample 1" src="https://raw.githubusercontent.com/codestronaut/food_review_app/main/samples/screen_1.png" />]
+<img alt="Sample 1" src="https://raw.githubusercontent.com/codestronaut/food_review_app/main/samples/screen_1.png" />
 
-[<img alt="Sample 2" src="https://raw.githubusercontent.com/codestronaut/food_review_app/main/samples/screen_2.png" />]
+<img alt="Sample 2" src="https://raw.githubusercontent.com/codestronaut/food_review_app/main/samples/screen_2.png" />
 
 ### Languages and Frameworks:
 
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
-[flutter]: https://flutter.dev
+
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
-[dart]: https://dart.dev
 
 ### Here are the features in detail:
 
@@ -67,3 +66,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+[flutter]: https://flutter.dev
+[dart]: https://dart.dev
